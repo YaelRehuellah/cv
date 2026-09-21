@@ -584,8 +584,7 @@ span {
     font-size: 18px;
     color: white;
 }
-/* -------------------------------------- */
-/* responsive media query */
+
 @media (max-width: 1285px) {
     html {
         font-size: 55%;
